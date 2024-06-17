@@ -1,0 +1,8 @@
+{
+    "cmake.configureOnOpen": false,
+    "files.associations": {
+        "string.h": "c",
+        "powrecursion": "c",
+        "stdio.h": "c"
+    }
+}
